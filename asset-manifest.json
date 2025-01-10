@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SportCompany/static/css/main.77312b56.css",
+    "main.js": "/SportCompany/static/js/main.2810f92f.js",
+    "static/js/488.9c92ff38.chunk.js": "/SportCompany/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/SportCompany/index.html",
+    "main.77312b56.css.map": "/SportCompany/static/css/main.77312b56.css.map",
+    "main.2810f92f.js.map": "/SportCompany/static/js/main.2810f92f.js.map",
+    "488.9c92ff38.chunk.js.map": "/SportCompany/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77312b56.css",
+    "static/js/main.2810f92f.js"
+  ]
+}
