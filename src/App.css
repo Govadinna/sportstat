@@ -1,0 +1,107 @@
+.App {
+  padding: 10px;
+}
+
+.block {
+  border: 1px solid #ccc;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.category {
+  margin: 5px 0;
+  display: block;
+  gap: 0px;
+  align-items: center;
+  margin-bottom: 10px;
+  padding-left: 5px;
+  border-left: 2px solid #ccc;
+}
+
+.sub-categories {
+  margin-left: 20px;
+  padding-left: 10px;
+  border-left: 2px dashed #aaa;
+}
+
+.sub-categories {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 120px;
+}
+
+.category-text {
+  color: darkgray;
+  padding-right: 10px;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 13px;
+}
+.input {
+  width: 25px;
+  margin-left: 10px;
+  padding: 0;
+  color: #1e1e1e;
+  text-align: center;
+}
+.excercice-input {
+  width: 20%;
+}
+.input-cat {
+  width: 25px;
+  padding: 5;
+  font-size: 15px;
+  font-weight: 700;
+
+  margin-left: 10px;
+  text-align: center;
+}
+.input-time {
+  width: 35px;
+  margin-left: 10px;
+  text-align: center;
+}
+.button-time {
+  margin-top: 50px;
+  position: absolute;
+  margin-left: -10%;
+  text-align: center;
+}
+.padding {
+  margin-left: 3px;
+}
+.excercice-input {
+  padding-left: 5px;
+  margin-top: 15px;
+}
+.add-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.edit {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+.delete-block {
+  display: block;
+  margin-left: auto;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input {
+  border: none; /* Убирает все границы */
+  border-bottom: 2px solid #ccc; /* Добавляет нижнюю границу */
+  outline: none; /* Убирает фокус-обводку */
+  padding: 5px; /* Добавляет отступ для удобства ввода */
+}
+
+input:focus {
+  border-bottom: 2px solid #007bff; /* Меняет цвет нижней границы при фокусе */
+}
